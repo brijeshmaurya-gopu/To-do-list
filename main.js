@@ -11,7 +11,7 @@ function addTask(){
         const task = document.createElement('li')
         task.textContent = inputBox.value;
         listContainer.appendChild(task)
-        // inputBox.value = ''
+        // inputBox.value = jasjdsiuhgdjl;jfdvlkkbfkjndlkbhsb''
         let span = document.createElement('span')
         span.textContent = "\u00d7"
         task.appendChild(span)
